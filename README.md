@@ -58,7 +58,7 @@ A comprehensive platform designed to automate and manage all core operations of 
 
 ## 🔗 Links
 
-- 📂 [Google Drive Folder](https://drive.google.com/your-shareable-link)
+- 📂 [Google Drive Folder]([https://drive.google.com/your-shareable-link](https://drive.google.com/drive/folders/1Ks4KE3gNmoD0bquVgqZmi_irUBs_xp42?usp=drive_link))
 - 📄 [Download Resume](https://drive.google.com/your-resume-link)
 
 ---
