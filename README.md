@@ -19,7 +19,7 @@ A comprehensive platform designed to automate and manage all core operations of 
 
 | Document | Description |
 |----------|-------------|
-| [BRD.pdf](Documents/BRD.pdf) | Business Requirement Document |
+| [BRD.pdf]file:///C:/Users/suraj/OneDrive/Desktop/Suraj%20-%20Project/BRD%20-%20SAAS%20Based%20Residential%20Township%20Management%20System%20-%20Suraj%20Patil.pdf) | Business Requirement Document |
 | [FRD.pdf](Documents/FRD.pdf) | Functional Requirement Document |
 | [URD.pdf](Documents/URD.pdf) | User Requirement Document |
 | [Wireframes](Documents/Wireframes/) | Visual UI mockups |
