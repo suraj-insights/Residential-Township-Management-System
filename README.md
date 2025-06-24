@@ -1,6 +1,6 @@
 # 🏙️ Residential Township Management System
 
-A comprehensive platform designed to automate and manage all core operations of a residential society — from resident onboarding to complaint tracking, visitor management, billing, and communication.
+A comprehensive platform designed to automate and manage all core operations of a residential society, from resident onboarding to complaint tracking, visitor management, billing, and communication.
 
 ---
 
