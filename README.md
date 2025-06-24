@@ -58,7 +58,12 @@ A comprehensive platform designed to automate and manage all core operations of 
 
 ## 🔗 Links
 
-- 📂 [Google Drive Folder]([https://drive.google.com/your-shareable-link](https://drive.google.com/drive/folders/1Ks4KE3gNmoD0bquVgqZmi_irUBs_xp42?usp=drive_link))
+## 📂 Project Folder (Google Drive)
+
+All documents (BRD, FRD, URD, PRD, JIRA, and wireframes) can be accessed here:
+
+🔗 [View Project Files on Google Drive](https://drive.google.com/drive/folders/1Ks4KE3gNmoD0bquVgqZmi_irUBs_xp42?usp=drive_link)
+
 - 📄 [Download Resume](https://drive.google.com/your-resume-link)
 
 ---
@@ -68,5 +73,5 @@ A comprehensive platform designed to automate and manage all core operations of 
 **Name:** Suraj Patil  
 **Email:** surajpatil@outlook.com  
 **LinkedIn:** https://www.linkedin.com/in/thesurajpatil/
-**Contact: 9019273233
+**Contact:** +919019273233
 
