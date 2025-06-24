@@ -33,6 +33,17 @@ A comprehensive platform designed to automate and manage all core operations of 
 | [JIRA_Stories.xlsx](JIRA/JIRA_Stories.xlsx) | Sample JIRA backlog |
 | [Presentation.pdf](Presentations/Project_Pitch_Deck.pdf) | Project Overview Slide Deck |
 
+
+## 📊 Supporting Documents
+
+| Document | Description |
+|----------|-------------|
+| [RACI.xlsx](https://github.com/suraj-insights/Residential-Township-Management-System/blob/6ed6cf6f486f075c9218af52ba1e29b0ea6f7865/RACI.xlsx) | RACI Matrix for role clarity |
+| [Residential Township Management.xlsx](https://github.com/suraj-insights/Residential-Township-Management-System/blob/6ed6cf6f486f075c9218af52ba1e29b0ea6f7865/Residential%20Township%20Management.xlsx) | Requirement Gathering & Feature Listing |
+| [MosCoW.xlsx](https://github.com/suraj-insights/Residential-Township-Management-System/blob/6ed6cf6f486f075c9218af52ba1e29b0ea6f7865/MosCoW.xlsx) | MoSCoW Prioritization |
+| [MVP-Backlog.xlsx](https://github.com/suraj-insights/Residential-Township-Management-System/blob/6ed6cf6f486f075c9218af52ba1e29b0ea6f7865/MVP-Backlog.xlsx) | MVP Feature Backlog |
+
+
 ---
 
 ## 🧩 Core Modules
