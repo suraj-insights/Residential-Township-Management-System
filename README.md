@@ -19,14 +19,14 @@ A comprehensive platform designed to automate and manage all core operations of 
 
 | Document | Description |
 |----------|-------------|
+
+| [Product Roadmap.xlsx](https://github.com/suraj-insights/Residential-Township-Management-System/blob/fd25c75aa1ff3e45acbd7e43ed6035108b155d51/Product%20Roadmap.xlsx) | High-level feature release timeline |
+
 | [BRD - SAAS Based Residential Township Management System - Suraj Patil.pdf](https://github.com/suraj-insights/Residential-Township-Management-System/blob/2f420cf54e05e5c8af2e46fafb9b71e5c9dc4ed0/BRD%20-%20SAAS%20Based%20Residential%20Township%20Management%20System%20-%20Suraj%20Patil.pdf) | Business Requirement Document |
 | [FRD - SAAS Based Residential Township Management System - Suraj Patil.pdf](https://github.com/suraj-insights/Residential-Township-Management-System/blob/0cc5cf5f08fd5d5d88fc5668f07e92484fcef60d/FRD%20-%20SAAS%20Based%20Residential%20Township%20Management%20System%20-%20Suraj%20Patil.pdf) | Functional Requirement Document |
 | [URD - SAAS Based Residential Township Management System - Team4.pdf](https://github.com/suraj-insights/Residential-Township-Management-System/blob/0cc5cf5f08fd5d5d88fc5668f07e92484fcef60d/URD%20-%20SAAS%20Based%20Residential%20Township%20Management%20System%20-%20Team4.pdf) | User Requirement Document |
 | [PRD - Residential Township Management System - Suraj Patil.pdf](https://github.com/suraj-insights/Residential-Township-Management-System/blob/0cc5cf5f08fd5d5d88fc5668f07e92484fcef60d/PRD%20Residential%20Township%20Management%20System%20-%20Suraj%20Patil.pdf) | Product Requirements Document |
 
-
-
-📌 [Product Roadmap.xlsx](https://github.com/suraj-insights/Residential-Township-Management-System/blob/fd25c75aa1ff3e45acbd7e43ed6035108b155d51/Product%20Roadmap.xlsx) – High-level feature release plan and roadmap
 
 
 
@@ -71,7 +71,8 @@ All documents (BRD, FRD, URD, PRD, JIRA, RTM, Backlog, MosCoW, Gap Analysis and 
 
 🔗 [View Project Files on Google Drive](https://drive.google.com/drive/folders/1Ks4KE3gNmoD0bquVgqZmi_irUBs_xp42?usp=drive_link)
 
-- 📄 [Download Resume](https://drive.google.com/your-resume-link)
+
+📄 [Download Resume](https://drive.google.com/your-resume-link)
 
 ---
 
@@ -79,6 +80,6 @@ All documents (BRD, FRD, URD, PRD, JIRA, RTM, Backlog, MosCoW, Gap Analysis and 
 
 **Name:** Suraj Patil  
 **Email:** surajpatil@outlook.com  
-**LinkedIn:** https://www.linkedin.com/in/thesurajpatil/
-**Contact:** +919019273233
+**LinkedIn:** https://www.linkedin.com/in/thesurajpatil/    
+**Contact** +919019273233
 
