@@ -19,7 +19,7 @@ A comprehensive platform designed to automate and manage all core operations of 
 
 | Document | Description |
 |----------|-------------|
-| [BRD.pdf](Documents/BRD.pdf) | Business Requirement Document |
+| BRD - SAAS Based Residential Township Management System - Suraj Patil.pdf | Business Requirement Document |
 | [FRD.pdf](Documents/FRD.pdf) | Functional Requirement Document |
 | [URD.pdf](Documents/URD.pdf) | User Requirement Document |
 | [Wireframes](Documents/Wireframes/) | Visual UI mockups |
