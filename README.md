@@ -81,6 +81,5 @@ All documents (BRD, FRD, URD, PRD, JIRA, RTM, Backlog, MosCoW, Gap Analysis and 
 
 **Name:** Suraj Patil  
 **Email:** surajpatil@outlook.com  
-**LinkedIn:** https://www.linkedin.com/in/thesurajpatil/    
 **Contact** +919019273233
 
