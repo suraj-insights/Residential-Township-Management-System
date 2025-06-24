@@ -20,9 +20,9 @@ A comprehensive platform designed to automate and manage all core operations of 
 | Document | Description |
 |----------|-------------|
 | [BRD - SAAS Based Residential Township Management System - Suraj Patil.pdf](https://github.com/suraj-insights/Residential-Township-Management-System/blob/2f420cf54e05e5c8af2e46fafb9b71e5c9dc4ed0/BRD%20-%20SAAS%20Based%20Residential%20Township%20Management%20System%20-%20Suraj%20Patil.pdf) | Business Requirement Document |
-|[ (https://github.com/suraj-insights/Residential-Township-Management-System/blob/0cc5cf5f08fd5d5d88fc5668f07e92484fcef60d/FRD%20-%20SAAS%20Based%20Residential%20Township%20Management%20System%20-%20Suraj%20Patil.pdf)| Functional Requirement Document |
-| [(https://github.com/suraj-insights/Residential-Township-Management-System/blob/0cc5cf5f08fd5d5d88fc5668f07e92484fcef60d/URD%20-%20SAAS%20Based%20Residential%20Township%20Management%20System%20-%20Team4.pdf) | User Requirement Document |
-|[.[https://github.com/suraj-insights/Residential-Township-Management-System/blob/0cc5cf5f08fd5d5d88fc5668f07e92484fcef60d/PRD%20Residential%20Township%20Management%20System%20-%20Suraj%20Patil.pdf | Product Requirements Document |
+|[Functional Requirement Document (https://github.com/suraj-insights/Residential-Township-Management-System/blob/0cc5cf5f08fd5d5d88fc5668f07e92484fcef60d/FRD%20-%20SAAS%20Based%20Residential%20Township%20Management%20System%20-%20Suraj%20Patil.pdf)| Functional Requirement Document |
+| [User Requirement Document](https://github.com/suraj-insights/Residential-Township-Management-System/blob/0cc5cf5f08fd5d5d88fc5668f07e92484fcef60d/URD%20-%20SAAS%20Based%20Residential%20Township%20Management%20System%20-%20Team4.pdf) | User Requirement Document |
+|[ Product Requirements Document](https://github.com/suraj-insights/Residential-Township-Management-System/blob/0cc5cf5f08fd5d5d88fc5668f07e92484fcef60d/PRD%20Residential%20Township%20Management%20System%20-%20Suraj%20Patil.pdf | Product Requirements Document |
 | [Wireframes](Documents/Wireframes/) | Visual UI mockups |
 | [RTM.xlsx](Documents/RTM.xlsx) | Requirement Traceability Matrix |
 | [JIRA_Stories.xlsx](JIRA/JIRA_Stories.xlsx) | Sample JIRA backlog |
