@@ -73,7 +73,6 @@ All documents (BRD, FRD, URD, PRD, JIRA, RTM, Backlog, MosCoW, Gap Analysis and 
 🔗 [View Project Files on Google Drive](https://drive.google.com/drive/folders/1Ks4KE3gNmoD0bquVgqZmi_irUBs_xp42?usp=drive_link)
 
 
-📄 [Download Resume](https://drive.google.com/your-resume-link)
 
 ---
 
