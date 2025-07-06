@@ -55,6 +55,15 @@ This section contains all key requirement documents related to the SAAS-based Re
 
 A dedicated Tableau dashboard has been built to complement the functional and analytical documentation of this Residential Township Management System.
 
+---
+## 🔄 Data Flow Diagram (DFD)
+
+The following diagram represents the flow of data between different components of the Residential Township Management System.
+
+![Data Flow Diagram](https://raw.githubusercontent.com/suraj-insights/Residential-Township-Management---Tableau-Dashboard/04905e74719efa97769c8785078836b69b6ac941/Data%20Flow%20Diagram.png)
+
+---
+
 👉 **[Access Tableau Dashboard on GitHub](https://github.com/suraj-insights/Residential-Township-Management---Tableau-Dashboard)**
 
 This dashboard provides:
