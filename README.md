@@ -50,6 +50,19 @@ This section contains all key requirement documents related to the SAAS-based Re
 ![Deployment Diagram](https://github.com/suraj-insights/Residential-Township-Management-System/blob/e468fef7e219d1f309c4fd165edd89de01de9419/Deployment%20Diagram.drawio.png)
 
 
+
+## 📊 Tableau Dashboard (Visual Layer)
+
+A dedicated Tableau dashboard has been built to complement the functional and analytical documentation of this Residential Township Management System.
+
+👉 **[Access Tableau Dashboard on GitHub](https://github.com/suraj-insights/Residential-Township-Management---Tableau-Dashboard)**
+
+This dashboard provides:
+- Visual representation of resident and complaint data
+- Financial and vendor analysis
+- KPI tracking for township operations
+
+
 ## 📊 Supporting Documents
 
 | Document | Description |
