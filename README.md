@@ -29,6 +29,25 @@ This section contains all key requirement documents related to the SAAS-based Re
 
 
 
+## 📊 Project Architecture & Diagrams
+
+### 📌 1. Business Flow Diagram – RTMS
+![Business Flow Diagram – RTMS](https://github.com/suraj-insights/Residential-Township-Management-System/blob/e468fef7e219d1f309c4fd165edd89de01de9419/_Business%20Flow%20Diagram-RTMS.drawio.png)
+
+---
+
+### 🔄 2. Sequence Diagram – Complaint Management (Resident to Closure)
+![Sequence Diagram – Complaint Management](https://github.com/suraj-insights/Residential-Township-Management-System/blob/e468fef7e219d1f309c4fd165edd89de01de9419/Sequence%20Diagram%20%E2%80%93%20Complaint%20Management%20(Resident%20to%20Closure).drawio.png)
+
+---
+
+### 🔁 3. State Diagram – Complaint Management Workflow
+![State Diagram – Complaint Management](https://github.com/suraj-insights/Residential-Township-Management-System/blob/e468fef7e219d1f309c4fd165edd89de01de9419/State%20Diagram%20%E2%80%93%20Complaint%20Management%20Workflow.drawio.png)
+
+---
+
+### 🏗️ 4. Deployment Diagram – RTMS Infrastructure
+![Deployment Diagram](https://github.com/suraj-insights/Residential-Township-Management-System/blob/e468fef7e219d1f309c4fd165edd89de01de9419/Deployment%20Diagram.drawio.png)
 
 
 ## 📊 Supporting Documents
