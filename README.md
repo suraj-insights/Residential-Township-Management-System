@@ -49,18 +49,18 @@ This section contains all key requirement documents related to the SAAS-based Re
 ### 🏗️ 4. Deployment Diagram – RTMS Infrastructure
 ![Deployment Diagram](https://github.com/suraj-insights/Residential-Township-Management-System/blob/e468fef7e219d1f309c4fd165edd89de01de9419/Deployment%20Diagram.drawio.png)
 
-
-
-## 📊 Tableau Dashboard (Visual Layer)
-
-A dedicated Tableau dashboard has been built to complement the functional and analytical documentation of this Residential Township Management System.
-
 ---
 ## 🔄 Data Flow Diagram (DFD)
 
 The following diagram represents the flow of data between different components of the Residential Township Management System.
 
 ![Data Flow Diagram](https://raw.githubusercontent.com/suraj-insights/Residential-Township-Management---Tableau-Dashboard/04905e74719efa97769c8785078836b69b6ac941/Data%20Flow%20Diagram.png)
+
+---
+## 📊 Tableau Dashboard (Visual Layer)
+
+A dedicated Tableau dashboard has been built to complement the functional and analytical documentation of this Residential Township Management System.
+
 
 ---
 
