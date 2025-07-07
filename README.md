@@ -1,17 +1,6 @@
 # 🏙️ Residential Township Management System
 
-A comprehensive platform designed to automate and manage all core operations of a residential society, from resident onboarding to complaint tracking, visitor management, billing, and communication.
-
----
-
-## 👤 Role: Business Analyst
-
-- Gathered and analyzed requirements from stakeholders
-- Created BRD, FRD, and URD with detailed specifications
-- Defined epics and user stories using JIRA
-- Designed wireframes and user journey flows
-- Coordinated with development and QA during sprints
-- Created RTM and supported UAT
+A comprehensive platform designed to automate and manage all core operations of a residential society, from resident onboarding to complaint tracking, visitor management, billing and communication.
 
 ---
 
@@ -27,7 +16,7 @@ This section contains all key requirement documents related to the SAAS-based Re
 | [URD - SAAS Based Residential Township Management System - Team4.pdf](https://github.com/suraj-insights/Residential-Township-Management-System/blob/0cc5cf5f08fd5d5d88fc5668f07e92484fcef60d/URD%20-%20SAAS%20Based%20Residential%20Township%20Management%20System%20-%20Team4.pdf) | User Requirement Document |
 | [PRD - Residential Township Management System - Suraj Patil.pdf](https://github.com/suraj-insights/Residential-Township-Management-System/blob/0cc5cf5f08fd5d5d88fc5668f07e92484fcef60d/PRD%20Residential%20Township%20Management%20System%20-%20Suraj%20Patil.pdf) | Product Requirements Document |
 
-
+---
 
 ## 📊 Project Architecture & Diagrams
 
@@ -50,6 +39,7 @@ This section contains all key requirement documents related to the SAAS-based Re
 ![Deployment Diagram](https://github.com/suraj-insights/Residential-Township-Management-System/blob/e468fef7e219d1f309c4fd165edd89de01de9419/Deployment%20Diagram.drawio.png)
 
 ---
+
 ## 🔄 Data Flow Diagram (DFD)
 
 The following diagram represents the flow of data between different components of the Residential Township Management System.
@@ -57,12 +47,10 @@ The following diagram represents the flow of data between different components o
 ![Data Flow Diagram](https://raw.githubusercontent.com/suraj-insights/Residential-Township-Management---Tableau-Dashboard/04905e74719efa97769c8785078836b69b6ac941/Data%20Flow%20Diagram.png)
 
 ---
+
 ## 📊 Tableau Dashboard (Visual Layer)
 
 A dedicated Tableau dashboard has been built to complement the functional and analytical documentation of this Residential Township Management System.
-
-
----
 
 👉 **[Access Tableau Dashboard on GitHub](https://github.com/suraj-insights/Residential-Township-Management---Tableau-Dashboard)**
 
@@ -71,6 +59,7 @@ This dashboard provides:
 - Financial and vendor analysis
 - KPI tracking for township operations
 
+---
 
 ## 📊 Supporting Documents
 
@@ -105,6 +94,17 @@ This dashboard provides:
 
 ---
 
+## 👤 Role: Business Analyst
+
+- Gathered and analyzed requirements from stakeholders
+- Created BRD, FRD, and URD with detailed specifications
+- Defined epics and user stories using JIRA
+- Designed wireframes and user journey flows
+- Coordinated with development and QA during sprints
+- Created RTM and supported UAT
+
+---
+
 ## 🔗 Links
 
 ## 📂 Project Folder (Google Drive)
@@ -112,7 +112,6 @@ This dashboard provides:
 All documents (BRD, FRD, URD, PRD, JIRA, RTM, Backlog, MosCoW, Gap Analysis and wireframes) can be accessed here:
 
 🔗 [View Project Files on Google Drive](https://drive.google.com/drive/folders/1Ks4KE3gNmoD0bquVgqZmi_irUBs_xp42?usp=drive_link)
-
 
 
 ---
@@ -123,3 +122,4 @@ All documents (BRD, FRD, URD, PRD, JIRA, RTM, Backlog, MosCoW, Gap Analysis and 
 **Email:** surajpatil@outlook.com  
 **Contact** +919019273233
 
+---
