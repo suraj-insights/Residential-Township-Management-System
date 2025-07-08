@@ -20,10 +20,12 @@ This section contains all key requirement documents related to the SAAS-based Re
 
 ## 📊 Project Architecture & Diagrams
 
-### 📌 1. Business Flow Diagram – RTMS
-## 🧭 Business Flow Diagram
+### 📌1. 🧭 Business Flow Diagram
 
-![Business Flow Diagram](https://github.com/suraj-insights/Residential-Township-Management-System/blob/e468fef7e219d1f309c4fd165edd89de01de9419/_Business%20Flow%20Diagram-RTMS.drawio.png)
+
+![Business Flow Diagram](https://github.com/suraj-insights/Residential-Township-Management-System/blob/fc7f8ff67e360873776fd57cf71b3e22dc33aeeb/_Business%20Flow%20Diagram-Page-1.drawio.png)
+
+
 
 ---
 
